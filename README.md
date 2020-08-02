@@ -44,5 +44,5 @@ logreg.score(test_x,test_y)#checking on validation set
 #or
 logreg.score(train_x,train_y)
 
-#Thankyou
+#Thankyou!
 I am also a beginner any advices are most welcome.
